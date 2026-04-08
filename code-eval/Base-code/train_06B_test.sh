@@ -169,7 +169,6 @@ export NVTE_DEBUG_LEVEL=0
 #
 ######################################################################
 
-# HF-HOME for gemma 3
 export HF_HOME=/scratch/project_462000963/cache/ 
 
 # DATA
@@ -410,7 +409,7 @@ CHECKPOINT_ARGS=(
 )
 
 COMMAND=" \
-    Megatron-LM/pretrain_gpt.py \
+    ${MEGATRON}/pretrain_gpt.py \
     "${MODEL_ARGS[@]}" \
     "${OPTIMIZER_ARGS[@]}" \
     "${PARALLEL_ARGS[@]}" \
