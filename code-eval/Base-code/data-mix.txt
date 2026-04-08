@@ -1,6 +1,4 @@
 0.2 /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/nemotron-cc/1.0/20p-sample/high-actual-20p
 0.2 /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/nemotron-cc/1.0/20p-sample/medium-high-actual-20p
 0.5 /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/nemotron-cc/1.0/20p-sample/medium-actual-5p
-0.0  /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/nemotron-cc/1.0/20p-sample/medium-low-actual-12p
-0.0  /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/nemotron-cc/1.0/20p-sample/low-actual-25p
-0.1 /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/the-stack/1.2/10p-sample/
+0.1 /scratch/project_462000963/preprocessed/oellm-v1-256k/catalogue/the-stack/1.2/data/sampled-10p/00_ALL_LANGUAGES/all-languages
