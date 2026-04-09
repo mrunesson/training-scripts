@@ -5,7 +5,7 @@
 #SBATCH --nodes=16
 #SBATCH --mem=480G
 #SBATCH --partition=standard-g
-#SBATCH --time=0-02:30:00
+#SBATCH --time=24:00:00
 #SBATCH --exclusive
 #SBATCH --gpus-per-node=8
 #SBATCH --account=project_462000963
